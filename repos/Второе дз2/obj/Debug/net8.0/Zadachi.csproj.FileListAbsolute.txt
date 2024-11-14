@@ -1,0 +1,14 @@
+C:\Users\Honor\source\repos\Zadachi\bin\Debug\net8.0\Zadachi.exe
+C:\Users\Honor\source\repos\Zadachi\bin\Debug\net8.0\Zadachi.deps.json
+C:\Users\Honor\source\repos\Zadachi\bin\Debug\net8.0\Zadachi.runtimeconfig.json
+C:\Users\Honor\source\repos\Zadachi\bin\Debug\net8.0\Zadachi.dll
+C:\Users\Honor\source\repos\Zadachi\bin\Debug\net8.0\Zadachi.pdb
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.AssemblyInfoInputs.cache
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.AssemblyInfo.cs
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.dll
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\refint\Zadachi.dll
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.pdb
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\Zadachi.genruntimeconfig.cache
+C:\Users\Honor\source\repos\Zadachi\obj\Debug\net8.0\ref\Zadachi.dll
