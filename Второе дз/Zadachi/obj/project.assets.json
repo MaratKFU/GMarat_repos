@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honor\\source\\repos\\Zadachi\\Zadachi.csproj",
+      "projectUniqueName": "C:\\Users\\Honor\\Desktop\\Второе дз\\Zadachi\\Zadachi.csproj",
       "projectName": "Zadachi",
-      "projectPath": "C:\\Users\\Honor\\source\\repos\\Zadachi\\Zadachi.csproj",
+      "projectPath": "C:\\Users\\Honor\\Desktop\\Второе дз\\Zadachi\\Zadachi.csproj",
       "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honor\\source\\repos\\Zadachi\\obj\\",
+      "outputPath": "C:\\Users\\Honor\\Desktop\\Второе дз\\Zadachi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
